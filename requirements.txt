@@ -1,0 +1,23 @@
+# Jupyter Kernel
+ipykernel
+
+
+# Env Package
+python-dotenv
+
+
+# LangChain Dependencies
+langchain
+langchain_community
+
+
+# Groq Dependencies
+langchain-groq
+
+
+# HuggingFace Dependencies
+langchain-huggingface
+
+
+# Vector Store
+langchain-core
