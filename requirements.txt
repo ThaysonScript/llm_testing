@@ -1,3 +1,7 @@
+# baixar prospectos
+requests 
+beautifulsoup4
+
 # Jupyter Kernel
 ipykernel
 
